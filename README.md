@@ -365,3 +365,12 @@ A personal AI memory project focused on persistent context, semantic retrieval, 
 </div>
 
 ---
+
+</div>
+🌐 Connect
+<div align="center"> <a href="https://kennykrichardson.onrender.com"> <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/kennykrichardson"> <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/> </a> <a href="https://github.com/kennykrichardson"> <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/> </a> <a href="mailto:kennykrichardson@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/> </a> </div> <br/> <div align="center">
+Building intelligent software, one shipped product at a time.
+
+<sub>AI · Engineering · Product · Curiosity</sub>
+
+</div>
