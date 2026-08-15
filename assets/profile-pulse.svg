@@ -1,0 +1,105 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kenny Richardson profile pulse</title>
+  <desc id="desc">Animated developer status dashboard showing current work, interests, learning focus, and engineering mission.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15171B"/>
+      <stop offset="1" stop-color="#0B0C0F"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7A1024"/>
+      <stop offset="0.5" stop-color="#FF3154"/>
+      <stop offset="1" stop-color="#7A1024"/>
+    </linearGradient>
+
+    <radialGradient id="ambient" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#B1122D" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#B1122D" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#FFFFFF" stroke-opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="250" rx="18" fill="#090A0D"/>
+  <rect width="1200" height="250" rx="18" fill="url(#grid)"/>
+  <ellipse cx="600" cy="125" rx="520" ry="170" fill="url(#ambient)"/>
+
+  <text x="42" y="34" fill="#777B83" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3">PROFILE PULSE // LIVE STATUS</text>
+
+  <circle cx="1150" cy="29" r="4" fill="#FF3154" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="1138" y="34" text-anchor="end" fill="#777B83" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="2">ONLINE</text>
+
+  <!-- Panels -->
+  <g>
+    <rect x="32" y="55" width="274" height="155" rx="14" fill="url(#panel)" stroke="#292C33"/>
+    <rect x="326" y="55" width="274" height="155" rx="14" fill="url(#panel)" stroke="#292C33"/>
+    <rect x="620" y="55" width="274" height="155" rx="14" fill="url(#panel)" stroke="#292C33"/>
+    <rect x="914" y="55" width="254" height="155" rx="14" fill="url(#panel)" stroke="#292C33"/>
+
+    <rect x="32" y="55" width="274" height="3" rx="1.5" fill="#FF3154"/>
+    <rect x="326" y="55" width="274" height="3" rx="1.5" fill="#FF3154"/>
+    <rect x="620" y="55" width="274" height="3" rx="1.5" fill="#FF3154"/>
+    <rect x="914" y="55" width="254" height="3" rx="1.5" fill="#FF3154"/>
+  </g>
+
+  <!-- Building -->
+  <circle cx="58" cy="84" r="6" fill="#FF3154" filter="url(#glow)">
+    <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="74" y="88" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2">BUILDING</text>
+  <text x="52" y="121" fill="#F2F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Orzyn AI</text>
+  <text x="52" y="143" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="11">Developer Intelligence Platform</text>
+  <text x="52" y="174" fill="#C9CBD0" font-family="Courier New, monospace" font-size="10">REACT · FASTAPI · AI</text>
+  <text x="52" y="193" fill="#FF3154" font-family="Courier New, monospace" font-size="9" letter-spacing="1">SHIPPING</text>
+  <circle cx="113" cy="190" r="2" fill="#FF3154"/>
+
+  <!-- Exploring -->
+  <circle cx="352" cy="84" r="6" fill="#B7A3FF" filter="url(#glow)"/>
+  <text x="368" y="88" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2">EXPLORING</text>
+  <text x="346" y="121" fill="#F2F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Local AI</text>
+  <text x="346" y="143" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="11">LLMs · RAG · semantic retrieval</text>
+  <text x="346" y="174" fill="#C9CBD0" font-family="Courier New, monospace" font-size="10">GGUF · LLAMA.CPP · EMBEDDINGS</text>
+  <text x="346" y="193" fill="#B7A3FF" font-family="Courier New, monospace" font-size="9" letter-spacing="1">RESEARCHING</text>
+
+  <!-- Learning -->
+  <circle cx="646" cy="84" r="6" fill="#5ED8FF" filter="url(#glow)"/>
+  <text x="662" y="88" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2">LEARNING</text>
+  <text x="640" y="121" fill="#F2F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI Engineering</text>
+  <text x="640" y="143" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="11">MLOps · evaluation · fine-tuning</text>
+  <text x="640" y="174" fill="#C9CBD0" font-family="Courier New, monospace" font-size="10">PYTORCH · DOCKER · CI/CD</text>
+  <text x="640" y="193" fill="#5ED8FF" font-family="Courier New, monospace" font-size="9" letter-spacing="1">ITERATING</text>
+
+  <!-- Mission -->
+  <circle cx="940" cy="84" r="6" fill="#FFB85C" filter="url(#glow)"/>
+  <text x="956" y="88" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2">MISSION</text>
+  <text x="934" y="121" fill="#F2F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Ship useful</text>
+  <text x="934" y="146" fill="#F2F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">software.</text>
+  <text x="934" y="174" fill="#8D9199" font-family="Segoe UI, Arial, sans-serif" font-size="10">Fast · polished · practical</text>
+  <text x="934" y="193" fill="#FFB85C" font-family="Courier New, monospace" font-size="9" letter-spacing="1">BUILD → TEST → SHIP</text>
+
+  <!-- Animated scan -->
+  <rect x="-120" y="55" width="70" height="155" fill="url(#accent)" opacity="0.035" transform="skewX(-14)">
+    <animate attributeName="x" from="-120" to="1260" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom pulse -->
+  <rect x="42" y="225" width="1116" height="1" fill="#292C32"/>
+  <rect x="42" y="225" width="210" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="x" values="42;948;42" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

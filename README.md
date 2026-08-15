@@ -41,51 +41,11 @@
 
 ⚡ Profile Pulse
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-🟢 Building
-
-Orzyn AI
-
-Developer Intelligence
-
-</td>
-
-<td align="center" width="25%">
-
-🧠 Exploring
-
-Local AI
-
-LLMs · RAG · Inference
-
-</td>
-
-<td align="center" width="25%">
-
-🔧 Learning
-
-AI Engineering
-
-MLOps · Fine-tuning
-
-</td>
-
-<td align="center" width="25%">
-
-🚀 Mission
-
-Ship useful software
-
-Fast · polished · practical
-
-</td>
-
-</tr>
-</table>
+<img
+  src="./assets/profile-pulse.svg"
+  width="100%"
+  alt="Kenny Richardson profile pulse showing current projects, interests, learning focus, and engineering mission"
+/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -100,10 +60,6 @@ Artificial Intelligence · Product Engineering · Computer Vision · Full-Stack 
 I like working beyond the model itself: designing interfaces, building APIs, preparing data, evaluating systems, integrating local inference, and turning experiments into usable products.
 
 Currently, I'm especially interested in AI engineering, local LLMs, intelligent developer tools, MLOps, computer vision, and system design.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-🎯 Engineering Focus
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
