@@ -49,7 +49,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-🧬 About
+#🧬 About
 
 I'm Kenny Richardson, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
