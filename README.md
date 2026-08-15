@@ -207,8 +207,6 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <h2>🛠 Technology</h2>
 
 <div align="center">
@@ -220,8 +218,6 @@ Python SQLite Embeddings Semantic Search Local AI
 />
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
