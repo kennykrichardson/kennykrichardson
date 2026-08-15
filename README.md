@@ -250,31 +250,84 @@ Python SQLite Embeddings Semantic Search Local AI
 <a href="https://kennykrichardson.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
 </a>
+&nbsp;
+
 <a href="https://linkedin.com/in/kennykrichardson">
   <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/>
 </a>
+&nbsp;
+
 <a href="https://github.com/kennykrichardson">
   <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/>
 </a>
+&nbsp;
+
 <a href="mailto:kennykrichardson@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/>
+</a>
+&nbsp;
+
+<a href="https://x.com/kenkrichardson">
+  <img
+    src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+&nbsp;
+
+<br/><br/>
+
+<a href="https://www.kaggle.com/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=white"
+    alt="Kaggle"
+  />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kennykrichardson/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white"
+    alt="CodeChef"
+  />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white"
+    alt="Codeforces"
+  />
+</a>
+&nbsp;
+<a href="https://discord.com/users/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
 </a>
 
 <br/><br/>
 
 <div align="center">
 
-### Building intelligent software, one shipped product at a time.
-
-<br/>
-
-<code>
-AI/ML&nbsp;&nbsp;·&nbsp;&nbsp;ENGINEERING&nbsp;&nbsp;·&nbsp;&nbsp;DEVELOPMENT&nbsp;&nbsp;·&nbsp;&nbsp;CURIOSITY
-</code>
+Building intelligent software, one shipped product at a time.
 
 <br/><br/>
 
-<code>STATUS: BUILDING&nbsp;&nbsp;|&nbsp;&nbsp;MODE: CURIOUS&nbsp;&nbsp;|&nbsp;&nbsp;NEXT: SHIP</code>
+<code>AI/ML · ENGINEERING · DEVELOPMENT · CURIOSITY</code>
 
 </div>
 
