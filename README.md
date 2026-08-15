@@ -39,7 +39,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-⚡ Profile Pulse
+<h2>⚡Profile Pulse</h2>
 
 <img
   src="./assets/profile-pulse.svg"
@@ -73,7 +73,7 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 <td width="50%" valign="top">
 
-🤖 Orzyn AI
+<h2>🤖Orzyn AI</h2>
 
 Developer Intelligence Platform
 
@@ -221,7 +221,7 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-🕹️ Contribution Arcade
+<h2>🕹️ Contribution Arcade</h2>
 
 <div align="center">
 
@@ -245,7 +245,9 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <div align="center">
 
-🌐 Connect
+<h2>🌐 Connect</h2>
+
+<br></br>
 
 <a href="https://kennykrichardson.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
