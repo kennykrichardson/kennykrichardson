@@ -105,58 +105,6 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 🎯 Engineering Focus
 
-<div align="center">
-
-
-
-Focus
-
-What I Build Around It
-
-🤖
-
-AI Engineering
-
-AI products, inference systems, evaluation & integration
-
-🧠
-
-Local AI
-
-GGUF models, llama.cpp, embeddings & offline inference
-
-🔎
-
-Intelligent Search
-
-Semantic search, vector databases & retrieval
-
-👁️
-
-Computer Vision
-
-OCR, visual classification & image-based systems
-
-⚙️
-
-MLOps
-
-Reproducible pipelines, benchmarking, Docker & deployment
-
-🖥️
-
-Product Engineering
-
-React, TypeScript, Python, FastAPI & Electron
-
-🪐
-
-Simulation
-
-Agent-based systems, Mesa & complex-system modeling
-
-</div>
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 🚀 Featured Projects
@@ -180,7 +128,7 @@ React TypeScript FastAPI Python GitHub API Cloudflare Workers AI
 
 <br/>
 
-<a href="https://github.com/kennykrichardson/Orzyn-AI-GitHub-Intelligence">
+<a href="https://github.com/kennykrichardson/Orzyn-AI-m2.0">
   <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI source code"/>
 </a>
 <a href="https://orzyn-ai.onrender.com">
@@ -376,34 +324,6 @@ Render · GitHub Pages · Cloudflare Workers
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-📊 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kennykrichardson&theme=github_dark&animation=rise&title_color=9B1C31&text_color=888888&bg_color=08090B"
-height="170"
-alt="Kenny's GitHub statistics"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kennykrichardson&theme=github_dark&animation=rise&title_color=9B1C31&text_color=888888&bg_color=08090B"
-height="170"
-alt="Kenny's most used repository languages"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennykrichardson&theme=github_dark&animation=draw&title_color=9B1C31&text_color=888888&bg_color=08090B"
-width="95%"
-alt="Kenny's GitHub profile activity summary"
-/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 🕹️ Contribution Arcade
 
 <div align="center">
@@ -447,6 +367,6 @@ alt="Kenny's GitHub profile activity summary"
 
 Building intelligent software, one shipped product at a time.
 
-<sub>AI · Engineering · Product · Curiosity</sub>
+<sub>AI/ML · Engineering · Development · Curiosity</sub>
 
 </div>
