@@ -212,7 +212,7 @@ Python SQLite Embeddings Semantic Search Local AI
 <div align="center">
 
 <img
-  src="./assets/technology-stack.svg"
+  src="./assets/technology-stack-v2.svg"
   width="100%"
   alt="Kenny Richardson technology stack"
 />
