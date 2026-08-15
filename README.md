@@ -245,9 +245,7 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <div align="center">
 
-<h2>🌐 Connect</h2>
-
-<br></br>
+<h1>🌐 Connect</h1>
 
 <a href="https://kennykrichardson.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
@@ -264,8 +262,20 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <br/><br/>
 
-Building intelligent software, one shipped product at a time.
+<div align="center">
 
-<sub>AI/ML · Engineering · Development · Curiosity</sub>
+### Building intelligent software, one shipped product at a time.
+
+<br/>
+
+<code>
+AI/ML&nbsp;&nbsp;·&nbsp;&nbsp;ENGINEERING&nbsp;&nbsp;·&nbsp;&nbsp;DEVELOPMENT&nbsp;&nbsp;·&nbsp;&nbsp;CURIOSITY
+</code>
+
+<br/><br/>
+
+<code>STATUS: BUILDING&nbsp;&nbsp;|&nbsp;&nbsp;MODE: CURIOUS&nbsp;&nbsp;|&nbsp;&nbsp;NEXT: SHIP</code>
+
+</div>
 
 </div>
