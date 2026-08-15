@@ -7,11 +7,11 @@
 <a href="https://github.com/kennykrichardson">
   <img src="https://komarev.com/ghpvc/?username=kennykrichardson&style=flat-square&color=9B1C31&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/kennykrichardson?tab=followers">
   <img src="https://img.shields.io/github/followers/kennykrichardson?style=flat-square&color=9B1C31&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/kennykrichardson?tab=repositories">
   <img src="https://img.shields.io/github/stars/kennykrichardson?style=flat-square&color=9B1C31&label=STARS" alt="GitHub stars"/>
 </a>
@@ -250,22 +250,18 @@ Python SQLite Embeddings Semantic Search Local AI
 <a href="https://kennykrichardson.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
 </a>
-&nbsp;
 
 <a href="https://linkedin.com/in/kennykrichardson">
   <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/>
 </a>
-&nbsp;
 
 <a href="https://github.com/kennykrichardson">
   <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/>
 </a>
-&nbsp;
 
 <a href="mailto:kennykrichardson@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/>
 </a>
-&nbsp;
 
 <a href="https://x.com/kenkrichardson">
   <img
@@ -273,16 +269,13 @@ Python SQLite Embeddings Semantic Search Local AI
     alt="X"
   />
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/kennykrichardson">
   <img
     src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
-&nbsp;
-
-<br/><br/>
 
 <a href="https://www.kaggle.com/kennykrichardson">
   <img
@@ -290,28 +283,28 @@ Python SQLite Embeddings Semantic Search Local AI
     alt="Kaggle"
   />
 </a>
-&nbsp;
+
 <a href="https://leetcode.com/u/kennykrichardson/">
   <img
     src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"
     alt="LeetCode"
   />
 </a>
-&nbsp;
-<a href="https://www.codechef.com/users/kennykrichardson">
+
+<a href="https://www.codechef.com/users/kenkrichardson">
   <img
     src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white"
     alt="CodeChef"
   />
 </a>
-&nbsp;
+
 <a href="https://codeforces.com/profile/kennykrichardson">
   <img
     src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white"
     alt="Codeforces"
   />
 </a>
-&nbsp;
+
 <a href="https://discord.com/users/kennykrichardson">
   <img
     src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"
@@ -319,13 +312,13 @@ Python SQLite Embeddings Semantic Search Local AI
   />
 </a>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 Building intelligent software, one shipped product at a time.
 
-<br/><br/>
+<br/>
 
 <code>AI/ML · ENGINEERING · DEVELOPMENT · CURIOSITY</code>
 
