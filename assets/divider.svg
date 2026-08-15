@@ -1,117 +1,195 @@
 <svg
   width="1200"
-  height="42"
-  viewBox="0 0 1200 42"
+  height="52"
+  viewBox="0 0 1200 52"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
-  role="img"
-  aria-label="Animated crimson system divider"
 >
   <defs>
-    <linearGradient id="line" x1="0" y1="21" x2="1200" y2="21">
-      <stop offset="0" stop-color="#5E0B18" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#9B1C31" stop-opacity="0.45"/>
-      <stop offset="0.5" stop-color="#FF3154"/>
-      <stop offset="0.82" stop-color="#9B1C31" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#5E0B18" stop-opacity="0"/>
+
+    <linearGradient id="divider" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#4A0712" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#8E1028"/>
+      <stop offset="35%" stop-color="#D51F43"/>
+      <stop offset="50%" stop-color="#FF3154"/>
+      <stop offset="65%" stop-color="#D51F43"/>
+      <stop offset="88%" stop-color="#8E1028"/>
+      <stop offset="100%" stop-color="#4A0712" stop-opacity="0"/>
     </linearGradient>
 
     <filter
       id="glow"
-      x="-100%"
+      x="-20%"
       y="-300%"
-      width="300%"
+      width="140%"
       height="700%"
     >
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur
+        stdDeviation="5"
+        result="blur"
+      />
+
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
   </defs>
 
-  <!-- faint track -->
-  <line
-    x1="80"
-    y1="21"
-    x2="1120"
-    y2="21"
-    stroke="#FFFFFF"
-    stroke-opacity="0.06"
+  <!-- Ambient glow -->
+  <rect
+    x="90"
+    y="23"
+    width="1020"
+    height="6"
+    rx="3"
+    fill="#C91D3D"
+    opacity="0.18"
+    filter="url(#glow)"
   />
 
-  <!-- main crimson line -->
-  <line
-    x1="80"
-    y1="21"
-    x2="1120"
-    y2="21"
-    stroke="url(#line)"
-    stroke-width="1"
+  <!-- Main divider -->
+  <rect
+    x="90"
+    y="24"
+    width="1020"
+    height="4"
+    rx="2"
+    fill="url(#divider)"
   />
 
-  <!-- center node -->
+  <!-- Bright core -->
+  <rect
+    x="250"
+    y="25"
+    width="700"
+    height="2"
+    rx="1"
+    fill="#FF3154"
+    opacity="0.85"
+  />
+
+  <!-- Left terminal -->
+  <rect
+    x="90"
+    y="20"
+    width="8"
+    height="12"
+    rx="2"
+    fill="#FF3154"
+    filter="url(#glow)"
+  />
+
   <circle
-    cx="600"
-    cy="21"
+    cx="90"
+    cy="26"
+    r="3"
+    fill="#FF3154"
+  />
+
+  <!-- Right terminal -->
+  <rect
+    x="1102"
+    y="20"
+    width="8"
+    height="12"
+    rx="2"
+    fill="#FF3154"
+    filter="url(#glow)"
+  />
+
+  <circle
+    cx="1110"
+    cy="26"
+    r="3"
+    fill="#FF3154"
+  />
+
+  <!-- Circuit branches -->
+  <path
+    d="M170 26 V13 H205"
+    stroke="#B1122D"
+    stroke-width="2"
+    opacity="0.65"
+  />
+
+  <path
+    d="M1030 26 V39 H995"
+    stroke="#B1122D"
+    stroke-width="2"
+    opacity="0.65"
+  />
+
+  <circle
+    cx="205"
+    cy="13"
     r="3"
     fill="#FF3154"
     filter="url(#glow)"
-  >
-    <animate
-      attributeName="r"
-      values="2;4;2"
-      dur="2.4s"
-      repeatCount="indefinite"
-    />
-    <animate
-      attributeName="opacity"
-      values="0.45;1;0.45"
-      dur="2.4s"
-      repeatCount="indefinite"
-    />
-  </circle>
+  />
 
-  <!-- scanning pulse -->
   <circle
-    cy="21"
-    r="2"
+    cx="995"
+    cy="39"
+    r="3"
     fill="#FF3154"
+    filter="url(#glow)"
+  />
+
+  <!-- Moving energy pulse -->
+  <circle
+    cx="100"
+    cy="26"
+    r="4"
+    fill="#FFFFFF"
     filter="url(#glow)"
   >
     <animate
       attributeName="cx"
       values="100;1100;100"
-      dur="6s"
+      dur="5s"
       repeatCount="indefinite"
     />
+
     <animate
       attributeName="opacity"
       values="0;1;1;0"
-      dur="6s"
+      dur="5s"
       repeatCount="indefinite"
     />
   </circle>
 
-  <!-- side nodes -->
-  <g fill="#9B1C31">
-    <circle cx="80" cy="21" r="2"/>
-    <circle cx="1120" cy="21" r="2"/>
-  </g>
+  <!-- Center reactor -->
+  <circle
+    cx="600"
+    cy="26"
+    r="6"
+    fill="#090A0C"
+    stroke="#FF3154"
+    stroke-width="2"
+    filter="url(#glow)"
+  />
 
-  <!-- tiny circuit branches -->
-  <g
-    stroke="#9B1C31"
-    stroke-width="1"
-    stroke-opacity="0.35"
+  <circle
+    cx="600"
+    cy="26"
+    r="2.5"
+    fill="#FF3154"
   >
-    <path d="M180 21 V12 H205"/>
-    <path d="M995 21 V30 H1020"/>
-  </g>
+    <animate
+      attributeName="r"
+      values="2;4;2"
+      dur="2s"
+      repeatCount="indefinite"
+    />
 
-  <g fill="#FF3154" opacity="0.65">
-    <circle cx="205" cy="12" r="1.5"/>
-    <circle cx="1020" cy="30" r="1.5"/>
-  </g>
+    <animate
+      attributeName="opacity"
+      values="0.5;1;0.5"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
 </svg>
