@@ -207,76 +207,21 @@ Python SQLite Embeddings Semantic Search Local AI
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-🛠 Technology
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<h2>🛠 Technology</h2>
 
 <div align="center">
 
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,html,css&theme=dark" />
-
-<br/>
-
-SQL · C · C++ · Java
-
-<br/><br/>
-
-AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface&theme=dark" />
-
-<br/>
-
-Transformers · Transformers.js · Computer Vision · Embeddings · Semantic Search
-RAG · Local LLMs · GGUF · llama.cpp · Fine-tuning · Model Evaluation
-
-<br/><br/>
-
-Application Engineering
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,nodejs,express&theme=dark" />
-
-<br/>
-
-FastAPI · REST APIs · TypeScript · Python
-
-<br/><br/>
-
-Data & Storage
-
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
-
-<br/>
-
-SQL · SQLite · Pandas · NumPy · LanceDB · Vector Search
-
-<br/><br/>
-
-Engineering & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&theme=dark" />
-
-<br/>
-
-MLOps · CI/CD · Benchmarking · Model Evaluation · Virtual Environments
-
-<br/><br/>
-
-Simulation & Scientific Computing
-
-Mesa · Agent-Based Modeling · Matplotlib
-
-<br/><br/>
-
-Deployment
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker&theme=dark" />
-
-<br/>
-
-Render · GitHub Pages · Cloudflare Workers
+<img
+  src="./assets/technology-stack.svg"
+  width="100%"
+  alt="Kenny Richardson technology stack"
+/>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
