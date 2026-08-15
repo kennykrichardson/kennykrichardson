@@ -5,15 +5,15 @@
 <br/>
 
 <a href="https://github.com/kennykrichardson">
-  <img src="https://komarev.com/ghpvc/?username=kennykrichardson&style=flat-square&color=crimson&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=kennykrichardson&style=flat-square&color=9B1C31&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 &nbsp;
 <a href="https://github.com/kennykrichardson?tab=followers">
-  <img src="https://img.shields.io/github/followers/kennykrichardson?style=flat-square&color=crimson&label=FOLLOWERS" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/kennykrichardson?style=flat-square&color=9B1C31&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/kennykrichardson?tab=repositories">
-  <img src="https://img.shields.io/github/stars/kennykrichardson?style=flat-square&color=crimson&label=STARS" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/kennykrichardson?style=flat-square&color=9B1C31&label=STARS" alt="GitHub stars"/>
 </a>
 
 </div>
@@ -21,16 +21,16 @@
 <div align="center">
 
 <a href="https://kennykrichardson.onrender.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&logoColor=4A4A4A&labelColor=FADADD&color=FADADD" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/kennykrichardson">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&logoColor=4A4A4A&labelColor=C7EFFB&color=C7EFFB" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/>
 </a>
 <a href="mailto:kennykrichardson@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&logoColor=4A4A4A&labelColor=FFF3D6&color=FFF3D6" />
+  <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/>
 </a>
 <a href="https://github.com/kennykrichardson">
-  <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&logoColor=4A4A4A&labelColor=D9F2E6&color=D9F2E6" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/>
 </a>
 
 </div>
@@ -43,6 +43,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 🟢 Building
@@ -59,7 +60,7 @@ Developer Intelligence
 
 **Local AI**
 
-LLMs · RAG · CV
+LLMs · RAG · Inference
 
 </td>
 
@@ -82,6 +83,7 @@ MLOps · Fine-tuning
 Fast · polished · practical
 
 </td>
+
 </tr>
 </table>
 
@@ -91,17 +93,40 @@ Fast · polished · practical
 
 I'm **Kenny Richardson**, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
-My interests sit at the intersection of:
+My work sits at the intersection of:
 
 **Artificial Intelligence · Product Engineering · Computer Vision · Full-Stack Development · Developer Tools**
 
-I care about more than making a model produce an output. I like building the system around it, from the interface and APIs to data pipelines, evaluation, deployment, and the occasional battle with a completely unreasonable dependency.
+I like working beyond the model itself: designing interfaces, building APIs, preparing data, evaluating systems, integrating local inference, and turning experiments into usable products.
+
+Currently, I'm especially interested in **AI engineering, local LLMs, intelligent developer tools, MLOps, computer vision, and system design**.
 
 ---
 
-## 🚀 Selected Work
+## 🎯 Engineering Focus
+
+<div align="center">
+
+| | Focus | What I Build Around It |
+|:---:|:---|:---|
+| 🤖 | **AI Engineering** | AI products, inference systems, evaluation & integration |
+| 🧠 | **Local AI** | GGUF models, llama.cpp, embeddings & offline inference |
+| 🔎 | **Intelligent Search** | Semantic search, vector databases & retrieval |
+| 👁️ | **Computer Vision** | OCR, visual classification & image-based systems |
+| ⚙️ | **MLOps** | Reproducible pipelines, benchmarking, Docker & deployment |
+| 🖥️ | **Product Engineering** | React, TypeScript, Python, FastAPI & Electron |
+| 🪐 | **Simulation** | Agent-based systems, Mesa & complex-system modeling |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -110,37 +135,19 @@ I care about more than making a model produce an output. I like building the sys
 
 **Developer Intelligence Platform**
 
-Analyzing engineering activity, portfolios, and GitHub projects to surface meaningful developer insights.
+Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
 
-`React` `TypeScript` `FastAPI` `Python` `GraphQL` `AI`
+**Tech:**  
+`React` `TypeScript` `FastAPI` `Python` `GitHub API` `Cloudflare Workers AI`
 
-</td>
+<br/>
 
-<td width="50%" valign="top">
-
-### 🧠 Mnemosyne
-
-**Local Second Brain**
-
-A desktop knowledge system combining semantic search, local embeddings, and personal information retrieval.
-
-`Electron` `React` `TypeScript` `SQLite` `Transformers.js`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🪐 Habryn
-
-**Mars Colony Simulation**
-
-An agent-based simulation exploring autonomous colonists, resources, infrastructure, and colony management.
-
-`Python` `Mesa` `NumPy` `Matplotlib`
+<a href="https://github.com/kennykrichardson/Orzyn-AI-GitHub-Intelligence">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI source code"/>
+</a>
+<a href="https://orzyn-ai.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Orzyn AI live demo"/>
+</a>
 
 </td>
 
@@ -150,14 +157,111 @@ An agent-based simulation exploring autonomous colonists, resources, infrastruct
 
 **Personal Finance Platform**
 
-A polished financial dashboard focused on visualization, interaction, and practical personal finance tracking.
+A cloud-synced finance application for tracking expenses, analyzing spending patterns, visualizing financial trends, and synchronizing data across devices.
 
-`React` `TypeScript` `Tailwind` `Framer Motion`
+**Tech:**  
+`React` `TypeScript` `Vite` `Tailwind CSS` `Firebase` `Framer Motion`
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Quartly-Finance-Tracker">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
+</a>
+<a href="https://quartly.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
+</a>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌌 Nyxora
+
+**AI Dream Compiler**
+
+A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
+
+**Tech:**  
+`Python` `LLMs` `GGUF` `llama.cpp` `RAG` `Structured Data`
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Nyxora-AI-Dream-Compiler">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyxora repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🪐 Habryn
+
+**Mars Colony Simulation**
+
+A modular agent-based Mars colony simulation where astronauts, robots, buildings, resources, managers, logistics, research, maintenance, and emergencies interact inside a living simulation.
+
+**Tech:**  
+`Python` `Mesa` `NumPy` `Matplotlib` `Agent-Based Modeling`
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Habryn-Mesa-Mars-Colony">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Habryn source code"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 Boxwit
+
+**Reproducible MLOps Pipeline**
+
+A focused machine-learning workflow predicting whether movies reach an IMDb rating of 7.0 or higher, built around reproducibility, experiment comparison, validation, model artifacts, and Docker execution.
+
+**Tech:**  
+`Python` `Pandas` `scikit-learn` `PyYAML` `Joblib` `Docker`
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Boxwit-MLOps-Pipeline">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Boxwit source code"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Mnemosyne
+
+**Local AI Memory System**
+
+A personal AI memory project focused on persistent context, semantic retrieval, local inference, structured memory, and building intelligent systems that can remember.
+
+**Tech:**  
+`Python` `SQLite` `Embeddings` `Semantic Search` `Local AI`
+
+<br/>
+
+<a href="https://github.com/kennykrichardson">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
+
+</div>
 
 ---
 
@@ -167,43 +271,68 @@ A polished financial dashboard focused on visualization, interaction, and practi
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java,html,css,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,html,css&theme=dark" />
+
+<br/>
+
+`SQL` · `C` · `C++` · `Java`
 
 <br/><br/>
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface&theme=dark" />
 
 <br/>
 
-`Computer Vision` · `Transformers` · `Hugging Face` · `Embeddings` · `Semantic Search` · `Local LLMs` · `Fine-tuning`
+`Transformers` · `Transformers.js` · `Computer Vision` · `Embeddings` · `Semantic Search`  
+`RAG` · `Local LLMs` · `GGUF` · `llama.cpp` · `Fine-tuning` · `Model Evaluation`
 
 <br/><br/>
 
 ### Application Engineering
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,nodejs,express,fastapi&theme=dark" />
-
-<br/><br/>
-
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=sqlite,docker,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,nodejs,express&theme=dark" />
 
 <br/>
 
-`LanceDB` · `REST APIs` · `GitHub Actions` · `MLOps`
+`FastAPI` · `REST APIs` · `TypeScript` · `Python`
+
+<br/><br/>
+
+### Data & Storage
+
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+
+<br/>
+
+`SQL` · `SQLite` · `Pandas` · `NumPy` · `LanceDB` · `Vector Search`
+
+<br/><br/>
+
+### Engineering & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&theme=dark" />
+
+<br/>
+
+`MLOps` · `CI/CD` · `Benchmarking` · `Model Evaluation` · `Virtual Environments`
+
+<br/><br/>
+
+### Simulation & Scientific Computing
+
+`Mesa` · `Agent-Based Modeling` · `Matplotlib`
 
 <br/><br/>
 
 ### Deployment
 
-<img src="https://skillicons.dev/icons?i=vercel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker&theme=dark" />
 
 <br/>
 
-`Render` · `GitHub Pages`
+`Render` · `GitHub Pages` · `Cloudflare Workers`
 
 </div>
 
@@ -214,13 +343,13 @@ A polished financial dashboard focused on visualization, interaction, and practi
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kennykrichardson&show_icons=true&hide_border=true&theme=transparent&title_color=crimson&icon_color=crimson&text_color=888888"
+  src="https://github-readme-stats.vercel.app/api?username=kennykrichardson&show_icons=true&hide_border=true&theme=transparent&title_color=9B1C31&icon_color=9B1C31&text_color=888888"
   height="170"
   alt="Kenny's GitHub statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennykrichardson&layout=compact&hide_border=true&theme=transparent&title_color=crimson&text_color=888888"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennykrichardson&layout=compact&hide_border=true&theme=transparent&title_color=9B1C31&text_color=888888&langs_count=8"
   height="170"
   alt="Kenny's most used languages"
 />
@@ -228,7 +357,7 @@ A polished financial dashboard focused on visualization, interaction, and practi
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kennykrichardson&bg_color=00000000&color=888888&line=crimson&point=ffffff&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kennykrichardson&bg_color=00000000&color=777777&line=9B1C31&point=9B1C31&area=true&hide_border=true"
   width="95%"
   alt="Kenny's contribution activity"
 />
@@ -236,61 +365,3 @@ A polished financial dashboard focused on visualization, interaction, and practi
 </div>
 
 ---
-
-## 🏙️ Contribution Skyline
-
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="Animated 3D contribution skyline generated from Kenny Richardson's GitHub activity"
-/>
-
-</div>
-
----
-
-## 📡 Developer Metrics
-
-<div align="center">
-
-<img
-  src="./generated/metrics.svg"
-  width="100%"
-  alt="Live GitHub developer metrics"
-/>
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/kennykrichardson">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/kennykrichardson/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://kennykrichardson.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:kennykrichardson@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Building intelligent software, one shipped product at a time.
-
-</div>
