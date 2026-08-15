@@ -248,19 +248,31 @@ Python SQLite Embeddings Semantic Search Local AI
 <h1>🌐 Connect</h1>
 
 <a href="https://kennykrichardson.onrender.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
-</a>
-
-<a href="https://linkedin.com/in/kennykrichardson">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://github.com/kennykrichardson">
-  <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://linkedin.com/in/kennykrichardson">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:kennykrichardson@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://x.com/kenkrichardson">
