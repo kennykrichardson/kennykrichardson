@@ -312,13 +312,11 @@ Python SQLite Embeddings Semantic Search Local AI
   />
 </a>
 
-<br/>
-
 <div align="center">
 
-Building intelligent software, one shipped product at a time.
+# Thanks for Visiting 🚀
 
-<br/>
+Building intelligent software, one shipped product at a time.
 
 <code>AI/ML · ENGINEERING · DEVELOPMENT · CURIOSITY</code>
 
