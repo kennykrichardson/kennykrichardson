@@ -49,7 +49,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-#🧬 About
+<h1>🧬 About</h1>
 
 I'm Kenny Richardson, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
@@ -63,7 +63,7 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-🚀 Featured Projects
+<h1>🚀 Featured Projects</h1>
 
 <div align="center">
 
