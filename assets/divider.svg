@@ -1,0 +1,117 @@
+<svg
+  width="1200"
+  height="42"
+  viewBox="0 0 1200 42"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Animated crimson system divider"
+>
+  <defs>
+    <linearGradient id="line" x1="0" y1="21" x2="1200" y2="21">
+      <stop offset="0" stop-color="#5E0B18" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#9B1C31" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FF3154"/>
+      <stop offset="0.82" stop-color="#9B1C31" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#5E0B18" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter
+      id="glow"
+      x="-100%"
+      y="-300%"
+      width="300%"
+      height="700%"
+    >
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- faint track -->
+  <line
+    x1="80"
+    y1="21"
+    x2="1120"
+    y2="21"
+    stroke="#FFFFFF"
+    stroke-opacity="0.06"
+  />
+
+  <!-- main crimson line -->
+  <line
+    x1="80"
+    y1="21"
+    x2="1120"
+    y2="21"
+    stroke="url(#line)"
+    stroke-width="1"
+  />
+
+  <!-- center node -->
+  <circle
+    cx="600"
+    cy="21"
+    r="3"
+    fill="#FF3154"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="r"
+      values="2;4;2"
+      dur="2.4s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      values="0.45;1;0.45"
+      dur="2.4s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <!-- scanning pulse -->
+  <circle
+    cy="21"
+    r="2"
+    fill="#FF3154"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="cx"
+      values="100;1100;100"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <!-- side nodes -->
+  <g fill="#9B1C31">
+    <circle cx="80" cy="21" r="2"/>
+    <circle cx="1120" cy="21" r="2"/>
+  </g>
+
+  <!-- tiny circuit branches -->
+  <g
+    stroke="#9B1C31"
+    stroke-width="1"
+    stroke-opacity="0.35"
+  >
+    <path d="M180 21 V12 H205"/>
+    <path d="M995 21 V30 H1020"/>
+  </g>
+
+  <g fill="#FF3154" opacity="0.65">
+    <circle cx="205" cy="12" r="1.5"/>
+    <circle cx="1020" cy="30" r="1.5"/>
+  </g>
+</svg>

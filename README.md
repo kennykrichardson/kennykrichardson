@@ -37,18 +37,18 @@
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## ⚡ Profile Pulse
+⚡ Profile Pulse
 
 <table align="center">
 <tr>
 
 <td align="center" width="25%">
 
-### 🟢 Building
+🟢 Building
 
-**Orzyn AI**
+Orzyn AI
 
 Developer Intelligence
 
@@ -56,9 +56,9 @@ Developer Intelligence
 
 <td align="center" width="25%">
 
-### 🧠 Exploring
+🧠 Exploring
 
-**Local AI**
+Local AI
 
 LLMs · RAG · Inference
 
@@ -66,9 +66,9 @@ LLMs · RAG · Inference
 
 <td align="center" width="25%">
 
-### 🔧 Learning
+🔧 Learning
 
-**AI Engineering**
+AI Engineering
 
 MLOps · Fine-tuning
 
@@ -76,9 +76,9 @@ MLOps · Fine-tuning
 
 <td align="center" width="25%">
 
-### 🚀 Mission
+🚀 Mission
 
-**Ship useful software**
+Ship useful software
 
 Fast · polished · practical
 
@@ -87,41 +87,79 @@ Fast · polished · practical
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🧬 About
+🧬 About
 
-I'm **Kenny Richardson**, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
+I'm Kenny Richardson, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
 My work sits at the intersection of:
 
-**Artificial Intelligence · Product Engineering · Computer Vision · Full-Stack Development · Developer Tools**
+Artificial Intelligence · Product Engineering · Computer Vision · Full-Stack Development · Developer Tools
 
 I like working beyond the model itself: designing interfaces, building APIs, preparing data, evaluating systems, integrating local inference, and turning experiments into usable products.
 
-Currently, I'm especially interested in **AI engineering, local LLMs, intelligent developer tools, MLOps, computer vision, and system design**.
+Currently, I'm especially interested in AI engineering, local LLMs, intelligent developer tools, MLOps, computer vision, and system design.
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🎯 Engineering Focus
+🎯 Engineering Focus
 
 <div align="center">
 
-| | Focus | What I Build Around It |
-|:---:|:---|:---|
-| 🤖 | **AI Engineering** | AI products, inference systems, evaluation & integration |
-| 🧠 | **Local AI** | GGUF models, llama.cpp, embeddings & offline inference |
-| 🔎 | **Intelligent Search** | Semantic search, vector databases & retrieval |
-| 👁️ | **Computer Vision** | OCR, visual classification & image-based systems |
-| ⚙️ | **MLOps** | Reproducible pipelines, benchmarking, Docker & deployment |
-| 🖥️ | **Product Engineering** | React, TypeScript, Python, FastAPI & Electron |
-| 🪐 | **Simulation** | Agent-based systems, Mesa & complex-system modeling |
+
+
+Focus
+
+What I Build Around It
+
+🤖
+
+AI Engineering
+
+AI products, inference systems, evaluation & integration
+
+🧠
+
+Local AI
+
+GGUF models, llama.cpp, embeddings & offline inference
+
+🔎
+
+Intelligent Search
+
+Semantic search, vector databases & retrieval
+
+👁️
+
+Computer Vision
+
+OCR, visual classification & image-based systems
+
+⚙️
+
+MLOps
+
+Reproducible pipelines, benchmarking, Docker & deployment
+
+🖥️
+
+Product Engineering
+
+React, TypeScript, Python, FastAPI & Electron
+
+🪐
+
+Simulation
+
+Agent-based systems, Mesa & complex-system modeling
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
@@ -131,14 +169,14 @@ Currently, I'm especially interested in **AI engineering, local LLMs, intelligen
 
 <td width="50%" valign="top">
 
-### 🤖 Orzyn AI
+🤖 Orzyn AI
 
-**Developer Intelligence Platform**
+Developer Intelligence Platform
 
 Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
 
-**Tech:**  
-`React` `TypeScript` `FastAPI` `Python` `GitHub API` `Cloudflare Workers AI`
+Tech:
+React TypeScript FastAPI Python GitHub API Cloudflare Workers AI
 
 <br/>
 
@@ -153,14 +191,14 @@ Turns GitHub repository data into engineering intelligence through repository he
 
 <td width="50%" valign="top">
 
-### 💳 Quartly
+💳 Quartly
 
-**Personal Finance Platform**
+Personal Finance Platform
 
 A cloud-synced finance application for tracking expenses, analyzing spending patterns, visualizing financial trends, and synchronizing data across devices.
 
-**Tech:**  
-`React` `TypeScript` `Vite` `Tailwind CSS` `Firebase` `Framer Motion`
+Tech:
+React TypeScript Vite Tailwind CSS Firebase Framer Motion
 
 <br/>
 
@@ -179,14 +217,14 @@ A cloud-synced finance application for tracking expenses, analyzing spending pat
 
 <td width="50%" valign="top">
 
-### 🌌 Nyxora
+🌌 Nyxora
 
-**AI Dream Compiler**
+AI Dream Compiler
 
 A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
 
-**Tech:**  
-`Python` `LLMs` `GGUF` `llama.cpp` `RAG` `Structured Data`
+Tech:
+Python LLMs GGUF llama.cpp RAG Structured Data
 
 <br/>
 
@@ -198,14 +236,14 @@ A long-term AI world-generation project exploring structured knowledge, worldbui
 
 <td width="50%" valign="top">
 
-### 🪐 Habryn
+🪐 Habryn
 
-**Mars Colony Simulation**
+Mars Colony Simulation
 
 A modular agent-based Mars colony simulation where astronauts, robots, buildings, resources, managers, logistics, research, maintenance, and emergencies interact inside a living simulation.
 
-**Tech:**  
-`Python` `Mesa` `NumPy` `Matplotlib` `Agent-Based Modeling`
+Tech:
+Python Mesa NumPy Matplotlib Agent-Based Modeling
 
 <br/>
 
@@ -221,14 +259,14 @@ A modular agent-based Mars colony simulation where astronauts, robots, buildings
 
 <td width="50%" valign="top">
 
-### 🎬 Boxwit
+🎬 Boxwit
 
-**Reproducible MLOps Pipeline**
+Reproducible MLOps Pipeline
 
 A focused machine-learning workflow predicting whether movies reach an IMDb rating of 7.0 or higher, built around reproducibility, experiment comparison, validation, model artifacts, and Docker execution.
 
-**Tech:**  
-`Python` `Pandas` `scikit-learn` `PyYAML` `Joblib` `Docker`
+Tech:
+Python Pandas scikit-learn PyYAML Joblib Docker
 
 <br/>
 
@@ -240,14 +278,14 @@ A focused machine-learning workflow predicting whether movies reach an IMDb rati
 
 <td width="50%" valign="top">
 
-### 🧠 Mnemosyne
+🧠 Mnemosyne
 
-**Local AI Memory System**
+Local AI Memory System
 
 A personal AI memory project focused on persistent context, semantic retrieval, local inference, structured memory, and building intelligent systems that can remember.
 
-**Tech:**  
-`Python` `SQLite` `Embeddings` `Semantic Search` `Local AI`
+Tech:
+Python SQLite Embeddings Semantic Search Local AI
 
 <br/>
 
@@ -263,112 +301,150 @@ A personal AI memory project focused on persistent context, semantic retrieval, 
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🛠 Technology
+🛠 Technology
 
 <div align="center">
 
-### Languages
+Languages
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,html,css&theme=dark" />
 
 <br/>
 
-`SQL` · `C` · `C++` · `Java`
+SQL · C · C++ · Java
 
 <br/><br/>
 
-### AI / Machine Learning
+AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface&theme=dark" />
 
 <br/>
 
-`Transformers` · `Transformers.js` · `Computer Vision` · `Embeddings` · `Semantic Search`  
-`RAG` · `Local LLMs` · `GGUF` · `llama.cpp` · `Fine-tuning` · `Model Evaluation`
+Transformers · Transformers.js · Computer Vision · Embeddings · Semantic Search
+RAG · Local LLMs · GGUF · llama.cpp · Fine-tuning · Model Evaluation
 
 <br/><br/>
 
-### Application Engineering
+Application Engineering
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,nodejs,express&theme=dark" />
 
 <br/>
 
-`FastAPI` · `REST APIs` · `TypeScript` · `Python`
+FastAPI · REST APIs · TypeScript · Python
 
 <br/><br/>
 
-### Data & Storage
+Data & Storage
 
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 
 <br/>
 
-`SQL` · `SQLite` · `Pandas` · `NumPy` · `LanceDB` · `Vector Search`
+SQL · SQLite · Pandas · NumPy · LanceDB · Vector Search
 
 <br/><br/>
 
-### Engineering & Infrastructure
+Engineering & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&theme=dark" />
 
 <br/>
 
-`MLOps` · `CI/CD` · `Benchmarking` · `Model Evaluation` · `Virtual Environments`
+MLOps · CI/CD · Benchmarking · Model Evaluation · Virtual Environments
 
 <br/><br/>
 
-### Simulation & Scientific Computing
+Simulation & Scientific Computing
 
-`Mesa` · `Agent-Based Modeling` · `Matplotlib`
+Mesa · Agent-Based Modeling · Matplotlib
 
 <br/><br/>
 
-### Deployment
+Deployment
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker&theme=dark" />
 
 <br/>
 
-`Render` · `GitHub Pages` · `Cloudflare Workers`
+Render · GitHub Pages · Cloudflare Workers
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kennykrichardson&show_icons=true&hide_border=true&theme=transparent&title_color=9B1C31&icon_color=9B1C31&text_color=888888"
-  height="170"
-  alt="Kenny's GitHub statistics"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kennykrichardson&theme=github_dark&animation=rise&title_color=9B1C31&text_color=888888&bg_color=08090B"
+height="170"
+alt="Kenny's GitHub statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennykrichardson&layout=compact&hide_border=true&theme=transparent&title_color=9B1C31&text_color=888888&langs_count=8"
-  height="170"
-  alt="Kenny's most used languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kennykrichardson&theme=github_dark&animation=rise&title_color=9B1C31&text_color=888888&bg_color=08090B"
+height="170"
+alt="Kenny's most used repository languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kennykrichardson&bg_color=00000000&color=777777&line=9B1C31&point=9B1C31&area=true&hide_border=true"
-  width="95%"
-  alt="Kenny's contribution activity"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennykrichardson&theme=github_dark&animation=draw&title_color=9B1C31&text_color=888888&bg_color=08090B"
+width="95%"
+alt="Kenny's GitHub profile activity summary"
 />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+🕹️ Contribution Arcade
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kennykrichardson/kennykrichardson/output/galaga-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kennykrichardson/kennykrichardson/output/galaga-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/kennykrichardson/kennykrichardson/output/galaga-contribution-graph.svg"
+    width="95%"
+    alt="Kenny Richardson's GitHub contributions as a Galaga arcade game"
+  />
+</picture>
 
 </div>
+
+<div align="center">
+
 🌐 Connect
-<div align="center"> <a href="https://kennykrichardson.onrender.com"> <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/> </a> <a href="https://linkedin.com/in/kennykrichardson"> <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/> </a> <a href="https://github.com/kennykrichardson"> <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/> </a> <a href="mailto:kennykrichardson@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/> </a> </div> <br/> <div align="center">
+
+<a href="https://kennykrichardson.onrender.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/kennykrichardson">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&labelColor=C7EFFB&color=C7EFFB" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/kennykrichardson">
+  <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&labelColor=D9F2E6&color=D9F2E6" alt="GitHub"/>
+</a>
+<a href="mailto:kennykrichardson@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&labelColor=FFF3D6&color=FFF3D6" alt="Email"/>
+</a>
+
+<br/><br/>
+
 Building intelligent software, one shipped product at a time.
 
 <sub>AI · Engineering · Product · Curiosity</sub>
