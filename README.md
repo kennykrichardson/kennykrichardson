@@ -18,6 +18,23 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://kennykrichardson.onrender.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&logoColor=4A4A4A&labelColor=FADADD&color=FADADD" />
+</a>
+<a href="https://linkedin.com/in/kennykrichardson">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-C7EFFB?style=for-the-badge&logoColor=4A4A4A&labelColor=C7EFFB&color=C7EFFB" />
+</a>
+<a href="mailto:kennykrichardson@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-FFF3D6?style=for-the-badge&logoColor=4A4A4A&labelColor=FFF3D6&color=FFF3D6" />
+</a>
+<a href="https://github.com/kennykrichardson">
+  <img src="https://img.shields.io/badge/🐙_GitHub-D9F2E6?style=for-the-badge&logoColor=4A4A4A&labelColor=D9F2E6&color=D9F2E6" />
+</a>
+
+</div>
+
 <br/>
 
 ---
@@ -225,9 +242,9 @@ A polished financial dashboard focused on visualization, interaction, and practi
 <div align="center">
 
 <img
-  src="./generated/skyline.svg"
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
   width="100%"
-  alt="3D contribution skyline generated from Kenny Richardson's GitHub activity"
+  alt="Animated 3D contribution skyline generated from Kenny Richardson's GitHub activity"
 />
 
 </div>
