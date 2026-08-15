@@ -1,0 +1,722 @@
+<svg
+  width="1200"
+  height="360"
+  viewBox="0 0 1200 360"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Kenny Richardson Kodipally</title>
+  <desc id="desc">
+    Animated developer profile banner for Kenny Richardson,
+    AI Engineer and Product Builder.
+  </desc>
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360">
+      <stop offset="0%" stop-color="#08090B"/>
+      <stop offset="48%" stop-color="#101114"/>
+      <stop offset="100%" stop-color="#08090B"/>
+    </linearGradient>
+
+    <!-- Crimson accent -->
+    <linearGradient id="crimson" x1="250" y1="0" x2="950" y2="0">
+      <stop offset="0%" stop-color="#5E0B18"/>
+      <stop offset="35%" stop-color="#B1122D"/>
+      <stop offset="50%" stop-color="#FF3154"/>
+      <stop offset="65%" stop-color="#B1122D"/>
+      <stop offset="100%" stop-color="#5E0B18"/>
+    </linearGradient>
+
+    <!-- Soft crimson glow -->
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#D9183B" stop-opacity="0.30"/>
+      <stop offset="55%" stop-color="#9B1C31" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid -->
+    <pattern
+      id="grid"
+      width="36"
+      height="36"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M 36 0 L 0 0 0 36"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-opacity="0.035"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <!-- Dot pattern -->
+    <pattern
+      id="dots"
+      width="28"
+      height="28"
+      patternUnits="userSpaceOnUse"
+    >
+      <circle
+        cx="2"
+        cy="2"
+        r="1"
+        fill="#FFFFFF"
+        opacity="0.08"
+      />
+    </pattern>
+
+    <!-- Glow filter -->
+    <filter
+      id="textGlow"
+      x="-30%"
+      y="-30%"
+      width="160%"
+      height="160%"
+    >
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong accent glow -->
+    <filter
+      id="accentGlow"
+      x="-100%"
+      y="-100%"
+      width="300%"
+      height="300%"
+    >
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip -->
+    <clipPath id="bannerClip">
+      <rect width="1200" height="360" rx="20"/>
+    </clipPath>
+
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+
+    <!-- Main background -->
+    <rect
+      width="1200"
+      height="360"
+      fill="url(#background)"
+    />
+
+    <!-- Grid -->
+    <rect
+      width="1200"
+      height="360"
+      fill="url(#grid)"
+    />
+
+    <!-- Dots -->
+    <rect
+      width="1200"
+      height="360"
+      fill="url(#dots)"
+      opacity="0.35"
+    />
+
+    <!-- Background crimson atmosphere -->
+    <ellipse
+      cx="600"
+      cy="190"
+      rx="520"
+      ry="260"
+      fill="url(#glow)"
+    >
+      <animate
+        attributeName="opacity"
+        values="0.55;0.9;0.55"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+    </ellipse>
+
+    <!-- ===================================== -->
+    <!-- CIRCUIT DECORATION                    -->
+    <!-- ===================================== -->
+
+    <g
+      stroke="#C41E3A"
+      stroke-width="1"
+      opacity="0.22"
+    >
+
+      <path d="M0 78 H160 L190 108 H300">
+        <animate
+          attributeName="stroke-opacity"
+          values="0.12;0.45;0.12"
+          dur="5s"
+          repeatCount="indefinite"
+        />
+      </path>
+
+      <path d="M1200 86 H1035 L1000 121 H915">
+        <animate
+          attributeName="stroke-opacity"
+          values="0.45;0.12;0.45"
+          dur="6s"
+          repeatCount="indefinite"
+        />
+      </path>
+
+      <path d="M0 285 H175 L210 250 H295"/>
+
+      <path d="M1200 278 H1050 L1012 240 H930"/>
+
+    </g>
+
+    <!-- Circuit nodes -->
+    <g fill="#FF3154">
+
+      <circle cx="190" cy="108" r="3">
+        <animate
+          attributeName="opacity"
+          values="0.25;1;0.25"
+          dur="2.5s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+      <circle cx="1000" cy="121" r="3">
+        <animate
+          attributeName="opacity"
+          values="1;0.25;1"
+          dur="3s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+      <circle cx="210" cy="250" r="3"/>
+
+      <circle cx="1012" cy="240" r="3"/>
+
+    </g>
+
+    <!-- ===================================== -->
+    <!-- FLOATING PARTICLES                    -->
+    <!-- ===================================== -->
+
+    <g fill="#FF3154">
+
+      <circle cx="135" cy="195" r="2" opacity="0.35">
+        <animate
+          attributeName="cy"
+          values="195;175;195"
+          dur="5s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+      <circle cx="1080" cy="180" r="2.5" opacity="0.35">
+        <animate
+          attributeName="cy"
+          values="180;205;180"
+          dur="6s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+      <circle cx="260" cy="165" r="1.5" opacity="0.5">
+        <animate
+          attributeName="opacity"
+          values="0.2;0.9;0.2"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+      <circle cx="930" cy="205" r="1.5" opacity="0.5">
+        <animate
+          attributeName="opacity"
+          values="0.8;0.15;0.8"
+          dur="4.5s"
+          repeatCount="indefinite"
+        />
+      </circle>
+
+    </g>
+
+    <!-- ===================================== -->
+    <!-- TOP SYSTEM LABEL                      -->
+    <!-- ===================================== -->
+
+    <g
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="12"
+      letter-spacing="4"
+    >
+
+      <text
+        x="65"
+        y="48"
+        fill="#777A80"
+      >
+        KENNY // DEV PROFILE
+      </text>
+
+      <text
+        x="1135"
+        y="48"
+        fill="#777A80"
+        text-anchor="end"
+      >
+        SYSTEM ONLINE
+      </text>
+
+    </g>
+
+    <!-- Online indicator -->
+
+    <circle
+      cx="1147"
+      cy="44"
+      r="4"
+      fill="#FF3154"
+      filter="url(#accentGlow)"
+    >
+      <animate
+        attributeName="opacity"
+        values="0.35;1;0.35"
+        dur="1.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- ===================================== -->
+    <!-- NAME                                  -->
+    <!-- ===================================== -->
+
+    <text
+      x="600"
+      y="142"
+      text-anchor="middle"
+      fill="#F5F5F7"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="54"
+      font-weight="700"
+      letter-spacing="7"
+    >
+      KENNY RICHARDSON KODIPALLY
+    </text>
+
+    <!-- Animated underline -->
+
+    <rect
+      x="410"
+      y="162"
+      width="380"
+      height="2"
+      rx="1"
+      fill="url(#crimson)"
+    >
+      <animate
+        attributeName="width"
+        values="80;380;380;80"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="x"
+        values="560;410;410;560"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <!-- ===================================== -->
+    <!-- SHUFFLE / SCRAMBLE IDENTITY           -->
+    <!-- ===================================== -->
+
+    <!--
+      Instead of a typewriter, these fragments rapidly
+      flash before each real title resolves.
+    -->
+
+    <g
+      text-anchor="middle"
+      font-family="'Courier New', monospace"
+      font-size="24"
+      font-weight="600"
+      letter-spacing="5"
+      filter="url(#textGlow)"
+    >
+
+      <!-- AI ENGINEER -->
+
+      <text
+        x="600"
+        y="218"
+        fill="#FF3154"
+        opacity="0"
+      >
+        A#_E%G1N33R
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            1;
+            0;
+            1;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .015;
+            .03;
+            .045;
+            .06;
+            .12;
+            .18;
+            .24;
+            .30;
+            .36;
+            .42;
+            .48;
+            .54;
+            .60;
+            .72;
+            .86;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <text
+        x="600"
+        y="218"
+        fill="#EDEDEF"
+        opacity="0"
+      >
+        AI ENGINEER
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            1;
+            1;
+            0;
+            0;
+            0;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .05;
+            .07;
+            .22;
+            .24;
+            .5;
+            .7;
+            .9;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <!-- PRODUCT BUILDER -->
+
+      <text
+        x="600"
+        y="218"
+        fill="#FF3154"
+        opacity="0"
+      >
+        PR0D#CT_B%1LD3R
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            0;
+            1;
+            0;
+            1;
+            0;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .22;
+            .235;
+            .25;
+            .265;
+            .28;
+            .30;
+            .5;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <text
+        x="600"
+        y="218"
+        fill="#EDEDEF"
+        opacity="0"
+      >
+        PRODUCT BUILDER
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            1;
+            1;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .28;
+            .30;
+            .46;
+            .48;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <!-- COMPUTER VISION -->
+
+      <text
+        x="600"
+        y="218"
+        fill="#FF3154"
+        opacity="0"
+      >
+        C0MP#T3R_V1S%0N
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            0;
+            1;
+            0;
+            1;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .46;
+            .475;
+            .49;
+            .505;
+            .52;
+            .54;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <text
+        x="600"
+        y="218"
+        fill="#EDEDEF"
+        opacity="0"
+      >
+        COMPUTER VISION
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            1;
+            1;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .52;
+            .54;
+            .70;
+            .72;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <!-- AI SYSTEMS -->
+
+      <text
+        x="600"
+        y="218"
+        fill="#FF3154"
+        opacity="0"
+      >
+        A1_SY$T3M#
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            0;
+            1;
+            0;
+            1;
+            0;
+            0
+          "
+          keyTimes="
+            0;
+            .70;
+            .715;
+            .73;
+            .745;
+            .76;
+            .78;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+      <text
+        x="600"
+        y="218"
+        fill="#EDEDEF"
+        opacity="0"
+      >
+        AI SYSTEMS
+        <animate
+          attributeName="opacity"
+          values="
+            0;
+            0;
+            1;
+            1;
+            0
+          "
+          keyTimes="
+            0;
+            .76;
+            .78;
+            .96;
+            1
+          "
+          dur="16s"
+          repeatCount="indefinite"
+        />
+      </text>
+
+    </g>
+
+    <!-- ===================================== -->
+    <!-- SUBTITLE                              -->
+    <!-- ===================================== -->
+
+    <text
+      x="600"
+      y="263"
+      text-anchor="middle"
+      fill="#85878D"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="15"
+      letter-spacing="3"
+    >
+      BUILDING INTELLIGENT SOFTWARE THAT SHIPS
+    </text>
+
+    <!-- ===================================== -->
+    <!-- BOTTOM STACK                          -->
+    <!-- ===================================== -->
+
+    <g
+      font-family="'Courier New', monospace"
+      font-size="12"
+      letter-spacing="2"
+      fill="#666970"
+    >
+
+      <text
+        x="600"
+        y="314"
+        text-anchor="middle"
+      >
+        PYTHON  •  TYPESCRIPT  •  REACT  •  FASTAPI  •  PYTORCH  •  LOCAL AI
+      </text>
+
+    </g>
+
+    <!-- ===================================== -->
+    <!-- SCANNING LINE                         -->
+    <!-- ===================================== -->
+
+    <rect
+      x="-250"
+      y="0"
+      width="170"
+      height="360"
+      fill="url(#crimson)"
+      opacity="0.025"
+      transform="skewX(-18)"
+    >
+      <animate
+        attributeName="x"
+        from="-250"
+        to="1450"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <!-- Bottom accent -->
+
+    <rect
+      x="0"
+      y="357"
+      width="1200"
+      height="3"
+      fill="url(#crimson)"
+    />
+
+  </g>
+
+</svg>
