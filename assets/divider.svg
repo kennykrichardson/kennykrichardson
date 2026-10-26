@@ -137,29 +137,6 @@
     filter="url(#glow)"
   />
 
-  <!-- Moving energy pulse -->
-  <circle
-    cx="100"
-    cy="26"
-    r="4"
-    fill="#FFFFFF"
-    filter="url(#glow)"
-  >
-    <animate
-      attributeName="cx"
-      values="100;1100;100"
-      dur="5s"
-      repeatCount="indefinite"
-    />
-
-    <animate
-      attributeName="opacity"
-      values="0;1;1;0"
-      dur="5s"
-      repeatCount="indefinite"
-    />
-  </circle>
-
   <!-- Center reactor -->
   <circle
     cx="600"

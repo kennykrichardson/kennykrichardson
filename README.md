@@ -82,7 +82,7 @@ Developer Intelligence Platform
 Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
 
 Tech:
-React TypeScript FastAPI Python GitHub API Cloudflare Workers AI
+React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
 
 <br/>
 
@@ -97,22 +97,22 @@ React TypeScript FastAPI Python GitHub API Cloudflare Workers AI
 
 <td width="50%" valign="top">
 
-💳 Quartly
+<h2>🖊️ Lexyra AI</h2>
 
-Personal Finance Platform
+AI-Powered Writing Assistant
 
-A cloud-synced finance application for tracking expenses, analyzing spending patterns, visualizing financial trends, and synchronizing data across devices.
+An AI-Powered application that lets you turn grammatically-incoherent and unfinished sentences into five different kinds of structured and finished sets.
 
 Tech:
-React TypeScript Vite Tailwind CSS Firebase Framer Motion
+React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, Framer Motion.
 
 <br/>
 
-<a href="https://github.com/kennykrichardson/Quartly-Finance-Tracker">
+<a href="https://github.com/kennykrichardson/Lexyra-AI-Writing-Assistant">
   <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
 </a>
-<a href="https://quartly.onrender.com">
-  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
+<a href="https://lexyra.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lexyra AI"/>
 </a>
 
 </td>
@@ -123,7 +123,26 @@ React TypeScript Vite Tailwind CSS Firebase Framer Motion
 
 <td width="50%" valign="top">
 
-🌌 Nyxora
+<h2>🌌 Regenesis AI</h2>
+
+GitHub Repository Prompt Reconstructor
+
+A  AI application that uses GitHub APIs and sends it to an LLM to generate a prompt to give to an AI agent to recreate the exact repository.
+
+Tech:
+Python, GitHub APIs, Huggingface Inference Providers, React, TypeScript, Three.
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Regenesis-AI">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Regenesis AI"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🌌 Nyxora AI</h2>
 
 AI Dream Compiler
 
@@ -140,58 +159,42 @@ Python LLMs GGUF llama.cpp RAG Structured Data
 
 </td>
 
-<td width="50%" valign="top">
-
-🪐 Habryn
-
-Mars Colony Simulation
-
-A modular agent-based Mars colony simulation where astronauts, robots, buildings, resources, managers, logistics, research, maintenance, and emergencies interact inside a living simulation.
-
-Tech:
-Python Mesa NumPy Matplotlib Agent-Based Modeling
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Habryn-Mesa-Mars-Colony">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Habryn source code"/>
-</a>
-
-</td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-🎬 Boxwit
+<h2>💳 Quartly</h2>
 
-Reproducible MLOps Pipeline
+Personal Finance Platform
 
-A focused machine-learning workflow predicting whether movies reach an IMDb rating of 7.0 or higher, built around reproducibility, experiment comparison, validation, model artifacts, and Docker execution.
+A cloud-synced finance application for tracking expenses, analyzing spending patterns, visualizing financial trends, and synchronizing data across devices.
 
 Tech:
-Python Pandas scikit-learn PyYAML Joblib Docker
+React, TypeScript, Vite, Tailwind CSS, Firebase, Framer-Motion.
 
 <br/>
 
-<a href="https://github.com/kennykrichardson/Boxwit-MLOps-Pipeline">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Boxwit source code"/>
+<a href="https://github.com/kennykrichardson/Quartly-Finance-Tracker">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
+</a>
+<a href="https://quartly.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🧠 Mnemosyne
+<h2>🔮 Fluid Deck AI</h2>
 
-Local AI Memory System
+Local AI Powerpoint Enhancer
 
-A personal AI memory project focused on persistent context, semantic retrieval, local inference, structured memory, and building intelligent systems that can remember.
+A personal AI project focused on Powerpoint Enhancement, slide improvement and has a rudimentary learning AI agent baked into the product.
 
 Tech:
-Python SQLite Embeddings Semantic Search Local AI
+Python, SQLite, Embeddings, Semantic Search, Local AI, pptjsx.
 
 <br/>
 
