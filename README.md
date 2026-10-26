@@ -123,7 +123,7 @@ React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, F
 
 <td width="50%" valign="top">
 
-<h2>🌌 Regenesis AI</h2>
+<h2>🌋 Regenesis AI</h2>
 
 GitHub Repository Prompt Reconstructor
 
@@ -178,7 +178,7 @@ AI Dream Compiler
 A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
 
 Tech:
-Python LLMs GGUF llama.cpp RAG Structured Data
+Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
 
 <br/>
 
