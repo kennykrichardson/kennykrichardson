@@ -87,7 +87,7 @@ React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
 <br/>
 
 <a href="https://github.com/kennykrichardson/Orzyn-AI-m2.0">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI source code"/>
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI source code"/>
 </a>
 <a href="https://orzyn-ai.onrender.com">
   <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Orzyn AI live demo"/>
@@ -109,7 +109,7 @@ React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, F
 <br/>
 
 <a href="https://github.com/kennykrichardson/Lexyra-AI-Writing-Assistant">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
 </a>
 <a href="https://lexyra.onrender.com">
   <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lexyra AI"/>
@@ -157,7 +157,7 @@ React, TypeScript, Vite, Tailwind CSS, Firebase, Framer-Motion.
 <br/>
 
 <a href="https://github.com/kennykrichardson/Quartly-Finance-Tracker">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
 </a>
 <a href="https://quartly.onrender.com">
   <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
@@ -202,7 +202,7 @@ Python, SQLite, Embeddings, Semantic Search, Local AI, pptjsx.
 <br/>
 
 <a href="https://github.com/kennykrichardson">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
 </a>
 
 </td>
