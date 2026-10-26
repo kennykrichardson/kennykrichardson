@@ -51,7 +51,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h1>🧬 About me</h1>
+<h1>🧬 About Me</h1>
 
 I'm Kenny Richardson, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
