@@ -137,31 +137,11 @@ Python, GitHub APIs, Huggingface Inference Providers, React, TypeScript, Three.
 <a href="https://github.com/kennykrichardson/Regenesis-AI">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Regenesis AI"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🌌 Nyxora AI</h2>
-
-AI Dream Compiler
-
-A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
-
-Tech:
-Python LLMs GGUF llama.cpp RAG Structured Data
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Nyxora-AI-Dream-Compiler">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyxora repository"/>
+<a href="https://regenesis-ai.onrender.com">
+  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Regenesis AI"/>
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -181,6 +161,29 @@ React, TypeScript, Vite, Tailwind CSS, Firebase, Framer-Motion.
 </a>
 <a href="https://quartly.onrender.com">
   <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🌌 Nyxora AI</h2>
+
+AI Dream Compiler
+
+A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
+
+Tech:
+Python LLMs GGUF llama.cpp RAG Structured Data
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Nyxora-AI-Dream-Compiler">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyxora repository"/>
 </a>
 
 </td>
