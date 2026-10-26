@@ -4,6 +4,10 @@
 
 <br/>
 
+<h>
+<meta name="google-site-verification" content="Kd9tYsS2K3vwh0GNzeUDx56KkgLNWQZ9rB3aEdDjQFs" />
+</h>
+
 <a href="https://github.com/kennykrichardson">
   <img src="https://komarev.com/ghpvc/?username=kennykrichardson&style=flat-square&color=9B1C31&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
