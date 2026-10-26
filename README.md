@@ -4,9 +4,8 @@
 
 <br/>
 
-<h>
-<meta name="google-site-verification" content="Kd9tYsS2K3vwh0GNzeUDx56KkgLNWQZ9rB3aEdDjQFs" />
-</h>
+<h1><meta name="google-site-verification" content="Kd9tYsS2K3vwh0GNzeUDx56KkgLNWQZ9rB3aEdDjQFs" /></h1>
+
 
 <a href="https://github.com/kennykrichardson">
   <img src="https://komarev.com/ghpvc/?username=kennykrichardson&style=flat-square&color=9B1C31&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -55,7 +54,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h1>🧬 About</h1>
+<h1>🧬 About me</h1>
 
 I'm Kenny Richardson, an AI-focused engineer and product builder who enjoys turning ideas into software that actually works.
 
