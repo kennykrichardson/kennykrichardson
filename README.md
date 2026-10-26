@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1><meta name="google-site-verification" content="Kd9tYsS2K3vwh0GNzeUDx56KkgLNWQZ9rB3aEdDjQFs" /></h1>
+<h1>name="google-site-verification" content="Kd9tYsS2K3vwh0GNzeUDx56KkgLNWQZ9rB3aEdDjQFs"</h1>
 
 
 <a href="https://github.com/kennykrichardson">
