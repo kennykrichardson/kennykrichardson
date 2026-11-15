@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Kenny Richardson - AI Engineer and Product Builder"/>
+<img src="./assets/header-v2.svg" width="100%" alt="Kenny Richardson - AI Engineer and Product Builder"/>
 
 <br/>
 
@@ -44,7 +44,7 @@
 <h2>⚡Profile Pulse</h2>
 
 <img
-  src="./assets/profile-pulse.svg"
+  src="./assets/profile-pulse-v2.svg"
   width="100%"
   alt="Kenny Richardson profile pulse showing current projects, interests, learning focus, and engineering mission"
 />
@@ -196,7 +196,7 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 <div align="center">
 
 <img
-  src="./assets/technology-stack.svg"
+  src="./assets/technology-stack-v2.svg"
   width="100%"
   alt="Kenny Richardson technology stack"
 />
