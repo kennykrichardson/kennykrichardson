@@ -67,151 +67,128 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 <h1>🚀 Featured Projects</h1>
 
+
 <div align="center">
 
 <table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🤖Orzyn AI</h2>
-
-Developer Intelligence Platform
-
-Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
-
-Tech:
-React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Orzyn-AI-m2.0">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI source code"/>
-</a>
-<a href="https://orzyn-ai.onrender.com">
-  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Orzyn AI live demo"/>
-</a>
-
-</td>
-
-<h2>🐤 Proximal Flap PPO</h2>
-
-Flappy Bird Simulation using PPO RL Agent.
-
-A Flappy Bird Simulation that has manual, deterministic and AI gameplaying modes, and a fine-tuned PPO RL Agent.
-
-Tech:
-Python, SQLite, Embeddings, Semantic Search, Local AI, pptjsx.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Proximal-Flap-Autonomous-Flight-PPO">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🖊️ Lexyra AI</h2>
-
-AI-Powered Writing Assistant
-
-An AI-Powered application that lets you turn grammatically-incoherent and unfinished sentences into five different kinds of structured and finished sets.
-
-Tech:
-React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, Framer Motion.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Lexyra-AI-Writing-Assistant">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
-</a>
-<a href="https://lexyra.onrender.com">
-  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lexyra AI"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🌋 Regenesis AI</h2>
-
-GitHub Repository Prompt Reconstructor
-
-An AI-Powered application that uses GitHub APIs and sends it to an LLM to generate a prompt to give to an AI agent to recreate the exact repository.
-
-Tech:
-Python, GitHub APIs, Huggingface Inference Providers, React, TypeScript, Three.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Regenesis-AI">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Regenesis AI"/>
-</a>
-<a href="https://regenesis-ai.onrender.com">
-  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Regenesis AI"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🌐 My Portfolio</h2>
-
-Projects Portfolio
-
-A collection of my projects and client-facing ventures, all showcased in an extremely detailed UI.
-
-Tech:
-React, TypeScript, Vite, Tailwind CSS, Framer-Motion, Three, Drei
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Quartly-Finance-Tracker">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quartly source code"/>
-</a>
-<a href="https://quartly.onrender.com">
-  <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Quartly live demo"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🌌 Nyxora AI</h2>
-
-AI Dream Compiler
-
-A long-term Fine-tuned AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
-
-Tech:
-Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson/Nyxora-AI-Dream-Compiler">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyxora repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-</tr>
-
+  <tr>
+    <td colspan="2" align="center" valign="middle" bgcolor="#190D12">
+      <br/>
+      <h1>🌐 Kenny Richardson</h1>
+      <h2>Software Engineer · AI Developer · Builder</h2>
+      <p>
+        <strong>Turning ideas into intelligent software.</strong>
+      </p>
+      <p>
+        A collection of AI-powered applications, engineering experiments,
+        simulations, and creative software projects.
+      </p>
+      <br/>
+      <a href="https://www.kennykrichardson.com">
+        <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-CB263E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
+      </a>
+      <br/><br/>
+      <sub>PERSONAL PORTFOLIO · PROJECT SHOWCASE · SOFTWARE ENGINEERING</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🤖 Orzyn AI</h2>
+      <strong>Developer Intelligence Platform</strong>
+      <p>
+        Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
+      </p>
+      <strong>Tech:</strong><br/>
+      React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Orzyn-AI-m2.0">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Orzyn AI repository"/>
+      </a>
+      <a href="https://orzyn.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Orzyn AI live demo"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🐤 Proximal Flap PPO</h2>
+      <strong>Flappy Bird Simulation using PPO RL Agent</strong>
+      <p>
+        A Flappy Bird simulation featuring manual, deterministic, and AI gameplay modes, powered by a trained Proximal Policy Optimization reinforcement learning agent.
+      </p>
+      <strong>Tech:</strong><br/>
+      Python, PPO, Reinforcement Learning, Gymnasium, Stable-Baselines3.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Proximal-Flap-Autonomous-Flight-PPO">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Proximal Flap repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🖊️ Lexyra AI</h2>
+      <strong>AI-Powered Writing Assistant</strong>
+      <p>
+        An AI-powered application that transforms grammatically incoherent and unfinished sentences into five different styles of structured, polished writing.
+      </p>
+      <strong>Tech:</strong><br/>
+      React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, Framer Motion.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Lexyra-AI-Writing-Assistant">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lexyra AI repository"/>
+      </a>
+      <a href="https://lexyra.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lexyra AI live demo"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🌋 Regenesis AI</h2>
+      <strong>GitHub Repository Prompt Reconstructor</strong>
+      <p>
+        An AI-powered application that analyzes GitHub repositories and uses an LLM to reconstruct detailed prompts capable of guiding AI agents to recreate the original repository.
+      </p>
+      <strong>Tech:</strong><br/>
+      Python, GitHub APIs, Hugging Face Inference Providers, React, TypeScript, Three.js.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Regenesis-AI">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Regenesis AI repository"/>
+      </a>
+      <a href="https://regenesis-ai.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-9B1C31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Regenesis AI live demo"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🌌 Nyxora AI</h2>
+      <strong>AI Dream Compiler</strong>
+      <p>
+        A long-term fine-tuned AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
+      </p>
+      <strong>Tech:</strong><br/>
+      Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Nyxora-AI-Dream-Compiler">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyxora AI repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🪐 Habryn Mars</h2>
+      <strong>PyGame-Powered Mars Simulator</strong>
+      <p>
+        A large-scale Mars colony simulation built around a modular architecture using Python and PyGame.
+      </p>
+      <strong>Tech:</strong><br/>
+      Python, PyGame, Procedural Generation, Pixel Art, Ruff.
+      <br/><br/>
+      <a href="https://github.com/kennykrichardson/Habryn-Mars-Colony">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Habryn repository"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
