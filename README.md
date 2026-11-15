@@ -69,13 +69,6 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 
 <div align="center">
-<p align="center">
-  <img
-    src="./assets/projects-background.png"
-    alt="Kenny Richardson Portfolio Background"
-    width="100%"
-  />
-</p>
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle" bgcolor="#190D12">
