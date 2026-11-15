@@ -1,172 +1,74 @@
-<svg
-  width="1200"
-  height="52"
-  viewBox="0 0 1200 52"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Crimson and gold ornamental divider</title>
+  <desc id="desc">A transparent horizontal separator with a crimson central line, fine antique-gold accents, delicate geometric flourishes, and a thin unfilled gold hexagon at the center.</desc>
   <defs>
-
-    <linearGradient id="divider" x1="0" y1="0" x2="1200" y2="0">
-      <stop offset="0%" stop-color="#4A0712" stop-opacity="0"/>
-      <stop offset="12%" stop-color="#8E1028"/>
-      <stop offset="35%" stop-color="#D51F43"/>
-      <stop offset="50%" stop-color="#FF3154"/>
-      <stop offset="65%" stop-color="#D51F43"/>
-      <stop offset="88%" stop-color="#8E1028"/>
-      <stop offset="100%" stop-color="#4A0712" stop-opacity="0"/>
+    <linearGradient id="crimsonLine" x1="70" y1="0" x2="1130" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7B1022" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#8F1028"/>
+      <stop offset="0.34" stop-color="#C51E38"/>
+      <stop offset="0.5" stop-color="#F02D49"/>
+      <stop offset="0.68" stop-color="#C51E38"/>
+      <stop offset="0.9" stop-color="#8F1028"/>
+      <stop offset="1" stop-color="#7B1022" stop-opacity="0"/>
     </linearGradient>
-
-    <filter
-      id="glow"
-      x="-20%"
-      y="-300%"
-      width="140%"
-      height="700%"
-    >
-      <feGaussianBlur
-        stdDeviation="5"
-        result="blur"
-      />
-
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="goldLine" x1="95" y1="0" x2="1105" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A66B24" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#C99443" stop-opacity="0.72"/>
+      <stop offset="0.5" stop-color="#F0D18A"/>
+      <stop offset="0.8" stop-color="#C99443" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#A66B24" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="diamondFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF0C7"/>
+      <stop offset="0.42" stop-color="#E7B75D"/>
+      <stop offset="1" stop-color="#A86B27"/>
+    </linearGradient>
+    <filter id="redGlow" x="-30%" y="-400%" width="160%" height="900%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.45  0 0 0 0 0.01  0 0 0 0 0.06  0 0 0 0.8 0" result="tint"/>
+      <feMerge><feMergeNode in="tint"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
+    <filter id="goldGlow" x="-40%" y="-400%" width="180%" height="900%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
-  <!-- Ambient glow -->
-  <rect
-    x="90"
-    y="23"
-    width="1020"
-    height="6"
-    rx="3"
-    fill="#C91D3D"
-    opacity="0.18"
-    filter="url(#glow)"
-  />
+  <!-- Fine gold rails, intentionally floating on a transparent canvas. -->
+  <path d="M82 31.5H1118" stroke="url(#goldLine)" stroke-width="1" opacity=".75"/>
+  <path d="M150 36H475M725 36H1050" stroke="#B77B31" stroke-width=".65" opacity=".55"/>
+  <path d="M150 27H475M725 27H1050" stroke="#F1D18A" stroke-width=".55" opacity=".48"/>
 
-  <!-- Main divider -->
-  <rect
-    x="90"
-    y="24"
-    width="1020"
-    height="4"
-    rx="2"
-    fill="url(#divider)"
-  />
+  <!-- Dominant crimson spine with softened light. -->
+  <path d="M72 32H1128" stroke="#B81435" stroke-width="5" stroke-linecap="round" opacity=".22" filter="url(#redGlow)"/>
+  <path d="M72 32H1128" stroke="url(#crimsonLine)" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M255 32H945" stroke="#F04458" stroke-width=".8" stroke-linecap="round" opacity=".9"/>
 
-  <!-- Bright core -->
-  <rect
-    x="250"
-    y="25"
-    width="700"
-    height="2"
-    rx="1"
-    fill="#FF3154"
-    opacity="0.85"
-  />
+  <!-- Delicate stepped flourishes at both ends. -->
+  <path d="M115 32V20H150L160 13H190" stroke="#B51B36" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".86"/>
+  <path d="M1085 32V44H1050L1040 51H1010" stroke="#B51B36" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".86"/>
+  <path d="M115 32V20H150" stroke="#E0B66B" stroke-width=".65" opacity=".9"/>
+  <path d="M1085 32V44H1050" stroke="#E0B66B" stroke-width=".65" opacity=".9"/>
 
-  <!-- Left terminal -->
-  <rect
-    x="90"
-    y="20"
-    width="8"
-    height="12"
-    rx="2"
-    fill="#FF3154"
-    filter="url(#glow)"
-  />
+  <!-- Fine gold terminals and crimson pinpoints. -->
+  <circle cx="72" cy="32" r="3.2" fill="#F0C879" filter="url(#goldGlow)"/>
+  <circle cx="1128" cy="32" r="3.2" fill="#F0C879" filter="url(#goldGlow)"/>
+  <circle cx="190" cy="13" r="2.2" fill="#E7B75D"/>
+  <circle cx="1010" cy="51" r="2.2" fill="#E7B75D"/>
+  <circle cx="150" cy="20" r="1.8" fill="#F04458"/>
+  <circle cx="1050" cy="44" r="1.8" fill="#F04458"/>
 
-  <circle
-    cx="90"
-    cy="26"
-    r="3"
-    fill="#FF3154"
-  />
+  <!-- Small decorative diamond ticks. -->
+  <path d="M300 32l4-4 4 4-4 4-4-4Z" fill="#D7A653" opacity=".92"/>
+  <path d="M892 32l4-4 4 4-4 4-4-4Z" fill="#D7A653" opacity=".92"/>
+  <path d="M365 32l2.5-2.5L370 32l-2.5 2.5-2.5-2.5Z" fill="#F1D18A" opacity=".7"/>
+  <path d="M830 32l2.5-2.5 2.5 2.5-2.5 2.5-2.5-2.5Z" fill="#F1D18A" opacity=".7"/>
 
-  <!-- Right terminal -->
-  <rect
-    x="1102"
-    y="20"
-    width="8"
-    height="12"
-    rx="2"
-    fill="#FF3154"
-    filter="url(#glow)"
-  />
-
-  <circle
-    cx="1110"
-    cy="26"
-    r="3"
-    fill="#FF3154"
-  />
-
-  <!-- Circuit branches -->
-  <path
-    d="M170 26 V13 H205"
-    stroke="#B1122D"
-    stroke-width="2"
-    opacity="0.65"
-  />
-
-  <path
-    d="M1030 26 V39 H995"
-    stroke="#B1122D"
-    stroke-width="2"
-    opacity="0.65"
-  />
-
-  <circle
-    cx="205"
-    cy="13"
-    r="3"
-    fill="#FF3154"
-    filter="url(#glow)"
-  />
-
-  <circle
-    cx="995"
-    cy="39"
-    r="3"
-    fill="#FF3154"
-    filter="url(#glow)"
-  />
-
-  <!-- Center reactor -->
-  <circle
-    cx="600"
-    cy="26"
-    r="6"
-    fill="#090A0C"
-    stroke="#FF3154"
-    stroke-width="2"
-    filter="url(#glow)"
-  />
-
-  <circle
-    cx="600"
-    cy="26"
-    r="2.5"
-    fill="#FF3154"
-  >
-    <animate
-      attributeName="r"
-      values="2;4;2"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-
-    <animate
-      attributeName="opacity"
-      values="0.5;1;0.5"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-  </circle>
-
-</svg>    
+  <!-- Minimal central hexagon: open interior, antique-gold outline only. -->
+  <path d="M600 17L613 24.5V39.5L600 47L587 39.5V24.5Z"
+        fill="none" stroke="#E2B85F" stroke-width="1.6"
+        stroke-linejoin="round" opacity=".98"/>
+  <path d="M600 20L610.4 26V38L600 44L589.6 38V26Z"
+        fill="none" stroke="#A66B24" stroke-width=".65"
+        stroke-linejoin="round" opacity=".78"/>
+</svg>

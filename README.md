@@ -203,7 +203,7 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 <div align="center">
 
 <img
-  src="./assets/technology-stack-v2.svg"
+  src="./assets/technology-stack.svg"
   width="100%"
   alt="Kenny Richardson technology stack"
 />
