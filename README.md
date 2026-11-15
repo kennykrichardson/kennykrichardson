@@ -67,16 +67,44 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 <h1>🚀 Featured Projects</h1>
 
-<p align="center">
-  <img src="./assets/projects-banner.svg" width="100%" alt="Featured projects: intelligent software, AI systems, and engineering experiments"/>
-</p>
 
+<div align="center">
+<p align="center">
+  <img
+    src="./assets/projects-background.png"
+    alt="Kenny Richardson Portfolio Background"
+    width="100%"
+  />
+</p>
 <table>
+  <tr>
+    <td colspan="2" align="center" valign="middle" bgcolor="#190D12">
+      <br/>
+      <h1>🌐 Kenny Richardson</h1>
+      <h2>Software Engineer · AI Developer · Builder</h2>
+      <p>
+        <strong>Turning ideas into intelligent software.</strong>
+      </p>
+      <p>
+        A collection of AI-powered applications, engineering experiments,
+        simulations, and creative software projects.
+      </p>
+      <br/>
+      <a href="https://www.kennykrichardson.com">
+        <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-CB263E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
+      </a>
+      <br/><br/>
+      <sub>PERSONAL PORTFOLIO · PROJECT SHOWCASE · SOFTWARE ENGINEERING</sub>
+      <br/><br/>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h2>🤖 Orzyn AI</h2>
       <strong>Developer Intelligence Platform</strong>
-      <p>Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.</p>
+      <p>
+        Turns GitHub repository data into engineering intelligence through repository health analysis, velocity metrics, contributor analysis, risk assessment, forecasting, and AI-generated reports.
+      </p>
       <strong>Tech:</strong><br/>
       React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
       <br/><br/>
@@ -90,7 +118,9 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
     <td width="50%" valign="top">
       <h2>🐤 Proximal Flap PPO</h2>
       <strong>Flappy Bird Simulation using PPO RL Agent</strong>
-      <p>A Flappy Bird simulation featuring manual, deterministic, and AI gameplay modes, powered by a trained Proximal Policy Optimization reinforcement learning agent.</p>
+      <p>
+        A Flappy Bird simulation featuring manual, deterministic, and AI gameplay modes, powered by a trained Proximal Policy Optimization reinforcement learning agent.
+      </p>
       <strong>Tech:</strong><br/>
       Python, PPO, Reinforcement Learning, Gymnasium, Stable-Baselines3.
       <br/><br/>
@@ -103,7 +133,9 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
     <td width="50%" valign="top">
       <h2>🖊️ Lexyra AI</h2>
       <strong>AI-Powered Writing Assistant</strong>
-      <p>An AI-powered application that transforms grammatically incoherent and unfinished sentences into five different styles of structured, polished writing.</p>
+      <p>
+        An AI-powered application that transforms grammatically incoherent and unfinished sentences into five different styles of structured, polished writing.
+      </p>
       <strong>Tech:</strong><br/>
       React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, Framer Motion.
       <br/><br/>
@@ -117,7 +149,9 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
     <td width="50%" valign="top">
       <h2>🌋 Regenesis AI</h2>
       <strong>GitHub Repository Prompt Reconstructor</strong>
-      <p>An AI-powered application that analyzes GitHub repositories and uses an LLM to reconstruct detailed prompts capable of guiding AI agents to recreate the original repository.</p>
+      <p>
+        An AI-powered application that analyzes GitHub repositories and uses an LLM to reconstruct detailed prompts capable of guiding AI agents to recreate the original repository.
+      </p>
       <strong>Tech:</strong><br/>
       Python, GitHub APIs, Hugging Face Inference Providers, React, TypeScript, Three.js.
       <br/><br/>
@@ -133,7 +167,9 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
     <td width="50%" valign="top">
       <h2>🌌 Nyxora AI</h2>
       <strong>AI Dream Compiler</strong>
-      <p>A long-term fine-tuned AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.</p>
+      <p>
+        A long-term fine-tuned AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
+      </p>
       <strong>Tech:</strong><br/>
       Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
       <br/><br/>
@@ -144,7 +180,9 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
     <td width="50%" valign="top">
       <h2>🪐 Habryn Mars</h2>
       <strong>PyGame-Powered Mars Simulator</strong>
-      <p>A large-scale Mars colony simulation built around a modular architecture using Python and PyGame.</p>
+      <p>
+        A large-scale Mars colony simulation built around a modular architecture using Python and PyGame.
+      </p>
       <strong>Tech:</strong><br/>
       Python, PyGame, Procedural Generation, Pixel Art, Ruff.
       <br/><br/>
