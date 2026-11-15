@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="230" viewBox="0 0 1060 230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16090d"/>
+      <stop offset=".52" stop-color="#090b10"/>
+      <stop offset="1" stop-color="#1b0b10"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8d642c"/><stop offset=".5" stop-color="#f0d18a"/><stop offset="1" stop-color="#9b6a31"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#a51e35" stop-opacity=".35"/><stop offset="1" stop-color="#a51e35" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#d9b66d" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1060" height="230" rx="16" fill="url(#bg)"/>
+  <rect width="1060" height="230" rx="16" fill="url(#grid)"/>
+  <ellipse cx="120" cy="5" rx="300" ry="170" fill="url(#glow)"/>
+  <ellipse cx="980" cy="220" rx="300" ry="170" fill="url(#glow)"/>
+  <path d="M0 180 C130 120 150 220 285 135 S480 30 610 92 S850 210 1060 70" fill="none" stroke="#8f172d" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M0 193 C150 130 170 228 310 145 S490 48 625 105 S860 222 1060 88" fill="none" stroke="url(#gold)" stroke-opacity=".75" stroke-width="1.2"/>
+  <path d="M34 28H1026V202H34Z" fill="none" stroke="url(#gold)" stroke-opacity=".55"/>
+  <path d="M52 48h24m-12-12v24M1008 48h-24m12-12v24" stroke="#e5c27d" stroke-width="1.5" opacity=".8"/>
+  <circle cx="90" cy="115" r="2.5" fill="#e6c47d"/><circle cx="970" cy="115" r="2.5" fill="#e6c47d"/>
+  <text x="530" y="91" text-anchor="middle" fill="#f6eddb" font-family="Georgia,serif" font-size="15" letter-spacing="5">KENNY RICHARDSON · SELECTED WORK</text>
+  <text x="530" y="139" text-anchor="middle" fill="#fff8eb" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="3">ENGINEERING THE IMPOSSIBLE</text>
+  <text x="530" y="169" text-anchor="middle" fill="#d8bd83" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">AI SYSTEMS  ·  DEVELOPER TOOLS  ·  SIMULATIONS  ·  CREATIVE SOFTWARE</text>
+</svg>
