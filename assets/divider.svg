@@ -66,9 +66,9 @@
 
   <!-- Minimal central hexagon: open interior, antique-gold outline only. -->
   <path d="M600 17L613 24.5V39.5L600 47L587 39.5V24.5Z"
-        fill="none" stroke="#E2B85F" stroke-width="1.6"
+        fill="none" stroke="#E2B85F" stroke-width="3"
         stroke-linejoin="round" opacity=".98"/>
   <path d="M600 20L610.4 26V38L600 44L589.6 38V26Z"
-        fill="none" stroke="#A66B24" stroke-width=".65"
+        fill="none" stroke="#A66B24" stroke-width="3"
         stroke-linejoin="round" opacity=".78"/>
 </svg>
