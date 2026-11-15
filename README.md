@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<a href="https://kennykrichardson.onrender.com">
+<a href="https://www.kennykrichardson.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/kennykrichardson">
