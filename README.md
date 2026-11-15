@@ -95,6 +95,23 @@ React, TypeScript, FastAPI, Python, GitHub API, Cloudflare Workers AI.
 
 </td>
 
+<h2>🐤 Proximal Flap PPO</h2>
+
+Flappy Bird Simulation using PPO RL Agent.
+
+A Flappy Bird Simulation that has manual, deterministic and AI gameplaying modes, and a fine-tuned PPO RL Agent.
+
+Tech:
+Python, SQLite, Embeddings, Semantic Search, Local AI, pptjsx.
+
+<br/>
+
+<a href="https://github.com/kennykrichardson/Proximal-Flap-Autonomous-Flight-PPO">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
+</a>
+
+</td>
+
 <td width="50%" valign="top">
 
 <h2>🖊️ Lexyra AI</h2>
@@ -127,7 +144,7 @@ React, TypeScript, FastAPI, Python, Cloudflare Workers AI, Vite, Tailwind CSS, F
 
 GitHub Repository Prompt Reconstructor
 
-A  AI application that uses GitHub APIs and sends it to an LLM to generate a prompt to give to an AI agent to recreate the exact repository.
+An AI-Powered application that uses GitHub APIs and sends it to an LLM to generate a prompt to give to an AI agent to recreate the exact repository.
 
 Tech:
 Python, GitHub APIs, Huggingface Inference Providers, React, TypeScript, Three.
@@ -145,14 +162,14 @@ Python, GitHub APIs, Huggingface Inference Providers, React, TypeScript, Three.
 
 <td width="50%" valign="top">
 
-<h2>💳 Quartly</h2>
+<h2>🌐 My Portfolio</h2>
 
-Personal Finance Platform
+Projects Portfolio
 
-A cloud-synced finance application for tracking expenses, analyzing spending patterns, visualizing financial trends, and synchronizing data across devices.
+A collection of my projects and client-facing ventures, all showcased in an extremely detailed UI.
 
 Tech:
-React, TypeScript, Vite, Tailwind CSS, Firebase, Framer-Motion.
+React, TypeScript, Vite, Tailwind CSS, Framer-Motion, Three, Drei
 
 <br/>
 
@@ -175,7 +192,7 @@ React, TypeScript, Vite, Tailwind CSS, Firebase, Framer-Motion.
 
 AI Dream Compiler
 
-A long-term AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
+A long-term Fine-tuned AI world-generation project exploring structured knowledge, worldbuilding systems, local language models, memory, retrieval, and generative storytelling.
 
 Tech:
 Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
@@ -189,23 +206,6 @@ Python, LLMs, GGUF, llama.cpp, RAG, Structured Data.
 </td>
 
 <td width="50%" valign="top">
-
-<h2>🔮 Fluid Deck AI</h2>
-
-Local AI Powerpoint Enhancer
-
-A personal AI project focused on Powerpoint Enhancement, slide improvement and has a rudimentary learning AI agent baked into the product.
-
-Tech:
-Python, SQLite, Embeddings, Semantic Search, Local AI, pptjsx.
-
-<br/>
-
-<a href="https://github.com/kennykrichardson">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kenny Richardson GitHub"/>
-</a>
-
-</td>
 
 </tr>
 
