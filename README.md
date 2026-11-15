@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<a href="https://kennykrichardson.onrender.com">
+<a href="https://www.kennykrichardson.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/kennykrichardson">
@@ -69,13 +69,6 @@ Currently, I'm especially interested in AI engineering, local LLMs, intelligent 
 
 
 <div align="center">
-<p align="center">
-  <img
-    src="./assets/projects-background.png"
-    alt="Kenny Richardson Portfolio Background"
-    width="100%"
-  />
-</p>
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle" bgcolor="#190D12">
